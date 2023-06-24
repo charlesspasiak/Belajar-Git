@@ -1,2 +1,2 @@
 # Belajar-Github
-*Belajar dasar Github*
+**Belajar dasar Github**
