@@ -1,2 +1,2 @@
 # Belajar-Github
-*Mempelajari cara penggunaan Github*
+*Belajar dasar Github*
